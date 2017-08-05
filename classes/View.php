@@ -8,6 +8,8 @@
 
 namespace Register;
 
+use Pfw\HtmlString;
+
 class View
 {
     /**

@@ -10,6 +10,8 @@
 
 namespace Register;
 
+use Pfw\HtmlString;
+
 class MainAdminController extends Controller
 {
     /**

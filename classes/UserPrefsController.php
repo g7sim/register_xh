@@ -11,6 +11,7 @@
 namespace Register;
 
 use XH_CSRFProtection;
+use Pfw\HtmlString;
 
 class UserPrefsController extends Controller
 {

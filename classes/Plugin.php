@@ -10,6 +10,7 @@
 
 namespace Register;
 
+use Pfw\HtmlString;
 use Fa\RequireCommand as RequireFaCommand;
 
 class Plugin
